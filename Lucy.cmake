@@ -1,0 +1,2 @@
+set(CN_PROJECT_NAME "Lucy Project")
+set(CN_CURRENCY_DISPLAY_NAME "Lucy")
